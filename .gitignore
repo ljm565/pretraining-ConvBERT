@@ -1,0 +1,8 @@
+.vscode/
+__pycache__/
+model/
+loss/
+.DS_Store
+data_sample/kowikitext/processed/kowikitext.all
+data/
+logs/
